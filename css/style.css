@@ -1,0 +1,26 @@
+#hero {
+    background-image: url(../images/martin-wyall-KaeAj16juVc-unsplash.jpg);
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: black;
+    mix-blend-mode:multiply;
+    filter: grayscale(40%);
+}
+
+#hero .d-flex {
+    height: 70vh;
+}
+
+.navbar-brand img {
+    height: 10vh;
+}
+
+.alert-secondary {
+    background-color: black;
+    opacity: 88%;
+}
+
+.alert-link {
+    color: white;
+}
