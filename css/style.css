@@ -1,24 +1,17 @@
 #hero {
-    background-image: url(../images/martin-wyall-KaeAj16juVc-unsplash.jpg);
+    background-image: url(../images/ashish-kumar-senapati-egDxpa494ck-unsplash.jpg);
     background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;
     background-color: black;
-    mix-blend-mode:multiply;
-    filter: grayscale(40%);
 }
 
 #hero .d-flex {
-    height: 70vh;
+    height: 100vh;
 }
 
 .navbar-brand img {
-    height: 10vh;
-}
-
-.alert-secondary {
-    background-color: black;
-    opacity: 88%;
+    height: 15vh;
 }
 
 .alert-link {
@@ -32,4 +25,8 @@
 
 .btn-outline-dark {
     font-size: 1.125rem;
+}
+
+a {
+    color: white;
 }
